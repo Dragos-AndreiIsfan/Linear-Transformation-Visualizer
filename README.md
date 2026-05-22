@@ -210,7 +210,7 @@ dotnet run
 # Inspiration
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- Essence of Linear Algebra
+- [*Essence of Linear Algebra*](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Interactive mathematical visualization systems
 
 ---
