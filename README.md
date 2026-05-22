@@ -4,7 +4,7 @@ A real-time 2D linear algebra visualization engine written in C# using - [SkiaSh
 
 This project focuses on visualizing how matrices transform vectors and entire coordinate spaces through interactive rendering and animation.
 
-Inspired by the geometric intuition and visual explanations from :contentReference[oaicite:2]{index=2} and the *Essence of Linear Algebra* series.
+Inspired by the geometric intuition and visual explanations from [3Blue1Brown](https://www.youtube.com/@3blue1brown) and the [*Essence of Linear Algebra*](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) series.
 
 ---
 
